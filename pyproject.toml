@@ -7,8 +7,8 @@ build-backend = "setuptools.build_meta"
 [project]
 requires-python = ">=3.10"
 version = "0.1.0"
-name = "python-project-template"
-description = "A comprehensive project for learning and development."
+name = "dev-tools-wsl"
+description = "A collection of scripts to set up and manage development environments on WSL. It focuses on Python version management with pyenv and aims for robust, maintainable setups following SOLID principles."
 authors = [{ name = "deitey719", email = "deity719@github.com" }]
 dependencies = ["pydantic", "PyYAML"]
 
